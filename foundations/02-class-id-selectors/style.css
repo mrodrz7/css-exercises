@@ -1,4 +1,9 @@
-p {
+.odd {
     background-color: #e16e6e;
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
 }
