@@ -11,6 +11,8 @@ body {
 
 .title {
   background: #e3f4ff;
+  padding: 8px;
+  margin-bottom: 8px;
 }
 
 .content {
