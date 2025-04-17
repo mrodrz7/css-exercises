@@ -8,3 +8,13 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+.odd.cooler {
+    font-size: 24px;
+}
+
+.odd {
+    background-color: rgb(245, 31, 95);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
